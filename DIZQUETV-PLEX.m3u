@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:0 tvg-id="1" tvg-chno="1" tvg-name="TOC TOC (2017)" tvg-logo="https://image.tmdb.org/t/p/w1280/joZlq9ccyJ8es0imyDmW0fZ4TOe.jpg" group-title="dizqueTV",TOC TOC (2017)
+http://localhost:8000/video?channel=1
+#EXTINF:0 tvg-id="2" tvg-chno="2" tvg-name="2 GUNS" tvg-logo="https://image.tmdb.org/t/p/w1280/ukmKKTLshlVPf1462mTS4komw7k.jpg" group-title="dizqueTV",2 GUNS
+http://localhost:8000/video?channel=2
+#EXTINF:0 tvg-id="3" tvg-chno="3" tvg-name="Channel 3" tvg-logo="https://image.tmdb.org/t/p/w1280/wSbDA4bh5hIcLUakRVJUJfs5dWi.jpg" group-title="dizqueTV",Channel 3
+http://localhost:8000/video?channel=3
+#EXTINF:0 tvg-id="4" tvg-chno="4" tvg-name="Channel 4" tvg-logo="http://localhost:8000/images/dizquetv.png" group-title="dizqueTV",Channel 4
+http://localhost:8000/video?channel=4
